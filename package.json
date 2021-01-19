@@ -7,7 +7,8 @@
     "test": "npx jest"
   },
   "jest":{
-    "moduleFileExtensions": ["js"]
+    "moduleFileExtensions": ["js"],
+    "verbose": true
   },
   "keywords": [],
   "author": "",
