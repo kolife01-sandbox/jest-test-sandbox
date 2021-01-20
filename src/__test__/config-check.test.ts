@@ -1,4 +1,3 @@
-const { TestScheduler } = require("jest")
 
 describe("Jest設定チェック", () => {
   test("adds 1 + 2 to equal 3", () => {
